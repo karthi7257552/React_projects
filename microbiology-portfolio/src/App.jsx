@@ -11,7 +11,7 @@ import Contact from './components/Contact'
 
 const App = () => {
   return (
-    <main className="font-sans bg-white text-gray-800 overflow-x-hidden">
+    <main className="font-sans bg-white text-gray-800 overflow-x-hidden bg-gradient-to-br from-green-50 via-white to-blue-100">
       <Navbar />
       <Hero />
       <About />
